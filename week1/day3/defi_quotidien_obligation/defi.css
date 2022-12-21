@@ -1,0 +1,168 @@
+.section1{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.section2{
+position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top:-420px;
+margin-left:350px;
+    
+    align-content: center;
+}
+
+
+.section3{
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+
+    margin-top:-535px;
+    margin-left:1250px;
+}
+
+
+.d1{
+    
+    border-color: black;
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+}
+
+.d2{
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+}
+
+
+.d3{
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+}
+
+.d4{
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+}
+
+
+.d5{
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+    
+
+
+}
+
+.d6{
+    margin-top:-2px;
+margin-left:50px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+
+.d7{
+    margin-top:-1px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+
+
+.d8{
+    margin-top:-1px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+
+
+
+.d9{
+    margin-top:-1px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+
+.d10{
+    margin-top:-1px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+.d11{
+    margin-top:20px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+.d12{
+    margin-top:10px;
+margin-left:60px;
+
+    height: 180px;
+    width: 180px;
+    background-color: rgb(255, 0, 43);
+
+
+}
+
+
+
+@media screen and(max-width:1000px){
+
+
+    .section3{
+        position: relative;
+    
+        display: flex;
+        flex-direction: column;
+    
+        margin-top:-535px;
+        margin-left:1250px;
+    }
+    
+}
+
+
+
+
+body{
+
+
+    background-color: rgb(17, 17, 22);
+}
